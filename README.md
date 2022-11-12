@@ -1,6 +1,8 @@
 # DIO Bootcamp UnimedBH Ciencia de Dados
 Repositório Criado para inserir os desafios de códigos realizados no Bootcamp da Unimed-B com foco em Ciência de Dados realizado na DIO
 
+![image](https://user-images.githubusercontent.com/24790794/201490441-3b3cebd9-85a1-4c29-870b-b1e4fb106124.png)
+
 ## Autor
 
 <a href="https://www.linkedin.com/in/thamyres-magalhaes/">
